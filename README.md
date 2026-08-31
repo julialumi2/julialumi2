@@ -9,4 +9,4 @@ Estudante de Análise e Desenvolvimento de Sistemas (Uniso) e Estagiária de TI,
 
 ---
 
-*Projeto em destaque:* [AdmFood](https://github.com/julialumi2/AdmFood) — sistema de gestão interna pra uma rede de 4 lojas: fluxo completo de compras (requisição → contagem → cotação → pedido → entrada em estoque), controle de estoque por loja, ficha técnica de cardápio e insights financeiros.
+*Projeto em destaque:* [AdmFood](https://github.com/julialumi2/AdmFood) — sistema de gestão interna pra uma rede de 4 lojas: fluxo completo de compras, controle de estoque por loja, ficha técnica de cardápio e insights financeiros.
