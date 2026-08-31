@@ -5,7 +5,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (Uniso) e Estagiária de TI,
 - 🔭 Atualmente construindo o *AdmFood* — sistema de gestão interna cobrindo estoque, compras, cardápio e insights de venda
 - 🌱 Estudando IA aplicada (LLMs, agentes) e aplicando em automações reais
 - 🛠️ Python · JavaScript · SQL · Flask · Git · Power BI
-- 📫 [LinkedIn] www.linkedin.com/in/julia-lumi-suzuki-b9314026b
+- 📫 www.linkedin.com/in/julia-lumi-suzuki-b9314026b
 
 ---
 
